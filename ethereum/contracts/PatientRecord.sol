@@ -72,15 +72,6 @@ contract InterfacePatientRecords {
 contract PatientRecords is InterfacePatientRecords
 {
 
-    // event Deposit(address indexed sender, uint256 value);
-    // event HospitalAddition(address hospital);
-    // event HospitalRemoval(address hospital);
-    // event PatientAddition(address patient);
-    // event PatientRemoval(address patient);
-    // event PatientRecordAdded(uint256 recordID, address patientAddress);
-    // event NameAddedToRecords(uint256 recordID, address patientAddress);
-    // event TokenRewardSet(uint256 tokenReward);
-    // event PatientPaid(address patientAddress);
 
     uint constant public MAX_COUNT = 50;
 
